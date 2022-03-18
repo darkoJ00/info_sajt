@@ -1,0 +1,78 @@
+.hero_img
+{
+    background-image:url("valjevoHram.jpg");
+    background-size: 100% 100%;
+    opacity: 0.9;
+    
+}
+.h1_text
+{
+    padding-top: 5%;
+    text-align: center;
+    color:rgba(0, 0, 0, 0.5);
+}
+.grb
+{
+    position: relative;
+    height: 20%;
+    margin-top:20%;
+    margin-bottom:2%;
+    opacity: 0.6;
+}
+.grb:hover
+{
+    opacity: 0.7;
+}
+
+.bg_image
+{
+    background-image: url("grbVa.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.nav_bar
+{
+    background-image: url("navBar.jpg");
+    border-top: black solid;
+    border-bottom: black solid;
+}
+.dugme
+{
+    width:100%;
+    margin-top:5%;
+    margin-bottom: 5%;
+}
+.na_pocetnu
+{
+    color:whitesmoke;
+    background-color: red;
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.center_txt
+{
+    text-align: center;
+    padding:5%;
+    color:black;
+}
+.text_card
+{
+    border:black 3px solid;
+    border-radius:20%;
+    background-color:rgb(182, 237, 255);
+    opacity: 0.8;
+    margin-top: 25%;
+}
+.text_card:hover
+{
+    opacity: 1;
+}
+
+.footer_style
+{
+    border-top: black 3px solid;
+    color:navajowhite;
+    background-color:rgb(68, 68, 255);
+}
